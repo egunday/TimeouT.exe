@@ -29,7 +29,7 @@
 
 [![TimeouT.exe's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=onur55-tr&layout=compact&hide_border=true&theme=jolly)](https://github.com/onur55-tr?tab=repositories)
 
-
+[![TimeouT.exe's GitHub stats](https://github-readme-stats.vercel.app/api?username=onur55-tr&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/onur55-tr?tab=repositories)
 
 
 ------
