@@ -31,6 +31,9 @@
 
 [![TimeouT.exe's GitHub stats](https://github-readme-stats.vercel.app/api?username=egunday&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/TimeouT.exe?tab=repositories)
 
+<br>
+<p align="center">### 👨‍💻 My 42 status</p>
+<p align="center"><img src="https://badge42.vercel.app/api/v2/cl977v9nc00300gkz9cm5re72/stats?cursusId=21&coalitionId=227"/></p>
 
 ------
 
