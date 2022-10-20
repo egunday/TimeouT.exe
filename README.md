@@ -24,4 +24,4 @@
                       
                       
                       
-[![Linkedln Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/emir-taylan-g%C3%BCnday-34182a215)
+[![Linkedln Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emir-taylan-g%C3%BCnday-34182a215)
